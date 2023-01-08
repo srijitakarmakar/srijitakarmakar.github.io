@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Srijita Karmakar
+subtitle: sometimes what's real is something you can't see
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,14 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: About Me
       url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -26,12 +20,17 @@ urls:
 
 author_logo: profile.png
 author: Srijita Karmakar
-author_bio: Hi, my name is Srijita. I built this site using devlopr-jekyll :D
+author_bio: Hello World, my name is Srijita! I am a graduate student at the Department of Psychological and Brain Sciences, 
+            University of California, Santa Barbara. I am interested in exploring questions that can potentially 
+            allow a better understanding of vision and the brain's role in it. When I am not doing neuroscience or honing my computational skills, 
+            you would probably find me writing poetry, playing my guitar, or trekking Himalayan mountains.
+
+ 
 author_email: srijita@ucsb.edu"
-author_location: USA
-author_website_url: "https://github.com/srijitakarmakar/srijitakarmakar.github.io"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_location: California, USA
+author_website_url: "https://srijitakarmakar.github.io"
+typewrite-text: The eye is the window to the brain
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
