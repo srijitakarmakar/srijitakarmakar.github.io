@@ -17,7 +17,7 @@ author: Srijita Karmakar
 author_bio: I am a graduate student at the Department of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. When I am not doing neuroscience or honing my computational skills, you would probably find me writing poetry, playing my guitar, or trekking Himalayan mountains.
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
-typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
+#typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
 hero_cover_img: brain3.jpg
 
 author_work_experiences:
