@@ -8,18 +8,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: About Me
       url: /about
-    - text: Blog
-      url: /blog
+    - text: Contact
+      url: /contact
 
 # Edit these details
 
 author_logo: profile.png
 author: Srijita Karmakar
-author_bio: Life is a continuous learning process! 
-            A very enthusiastic and dedicated undergrad, currently pursuing a B.Tech degree in mechanical engineering from IIT Madras. Versatile, quick to grasp and loves to collaborate, currently working on the mechanical and software aspect of robotics, hoping to make it big.
+author_bio: I am a graduate student at the Department of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. When I am not doing neuroscience or honing my computational skills, you would probably find me writing poetry, playing my guitar, or trekking Himalayan mountains.
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
 typewrite-text: The eye is the window to the brain...
+hero_cover_img: cover.jpeg
 
 author_work_experiences:
             - company_name: iBot Club, Centre for Innovation
@@ -89,10 +89,10 @@ instagram_username: johndoe
 wakatime_username: VihaanAkshaay
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+#formspree_email: johndoe@gmail.com
 
 # syntax highlighter
 markdown: kramdown
