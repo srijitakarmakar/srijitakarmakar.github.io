@@ -18,7 +18,7 @@ author_bio: I am a graduate student at the Department of Psychological and Brain
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
 #typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
-#hero_cover_img: brain.png
+hero_cover_img: cover.png
 
 author_work_experiences:
             - company_name: iBot Club, Centre for Innovation
@@ -72,7 +72,7 @@ author_project_details:
                 project_description: The goal of this project is to program a PR2 to identify and acquire target objects from a cluttered space and place them in a bin. The project is based on the 'Stow Task' portion of Amazon's Robotics Challenge.
                 project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_3D-Perception-Project
                 visibility: true
-              - project_thumbnail: ib.png
+              - project_thumbnail: mp.png
                 project_title: Robotic Arm - Pick and Place
                 project_description: In a simulated environment, given camera input from a drone, the goal is to train a fully convoluted neural network to identify the location of a moving target and to control the drone to follow the same.
                 project_url: https://github.com/VihaanAkshaay/Project_RoboND_Follow-Me
