@@ -41,18 +41,20 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: ib.png
-                college_name: Indian Institute of Technology, Madras
-                college_url: https://www.iitm.ac.in/
-                college_degree: Dual Degree (B.Tech in Mechanical Engineering + M.Tech in Robotics) 
-                description: Bachelor of Technology in Mechanical Engineering & Inter Disciplinary Master of Technology in Robotics
+              - college_logo: ucsb.png
+                college_name: University of California, Santa Barbara
+                college_url: https://www.ucsb.edu/
+                college_degree: Ongoing PhD 
+                description: 2022-present, pursuing a PhD in the Dept. of Psychological and Brain Sciences at UCSB
                 visibility: true
-              - college_logo: ib.png
-                college_name: Udacity
-                college_url: https://www.udacity.com/course/robotics-software-engineer--nd209
-                college_degree: Robotics Software Engineer Nanodegree 
-                description: Programmed various robots in simulation and worked with Jetson TX2 hardware implementing various robotic algorithms(Localization, Mapping, SLAM, Path Planning and Navigation, 3D perception, Deep Learning, Manipulator Kinematics) and tools(ROS using python & C++, RViz, Gazebo and more).
+              - college_logo: iiserk.png
+                college_name: Indian Institute of Science Education and Research, Kolkata
+                college_url: https://www.iiserkol.ac.in/web/en/
+                college_degree: Dual Degree (BS-MS in Life Sciences) 
+                description: 2017-2022, earned Bachelors and Masters Degree in a 5-year Integrated program (GPA 9.46/10)
                 visibility: true
+
+              
 
 author_project_details:
               - project_thumbnail: ib.png
