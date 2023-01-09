@@ -1,7 +1,7 @@
 title: Srijita Karmakar
 subtitle:  sometimes what's real is something you can't see
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student at UCSB, Psychological and Brain Sciences Department
+  PhD student at VIU Lab, UC Santa Barbara
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -14,7 +14,7 @@ urls:
 
 author_logo: profile.png
 author: Srijita Karmakar
-author_bio: I am a graduate student at the Department of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. When I am not doing vision science or honing my computational skills, you would probably find me writing poetry, playing my guitar, or trekking Himalayan mountains.
+author_bio: I am a graduate student working with Prof. Miguel Eckstein at the Vision and Image Understanding Lab, Dept. of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. Previously, I explored human cognition in the context of face perception under the supervision of Dr. Koel Das at the Dept. of Mathematics and Statistics, Indian Institute of Science Education and Research, Kolkata. When I am not doing vision science or honing my computational skills, you would probably find me writing poetry, playing my guitar, overthinking, or trekking Himalayan mountains.
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
 #typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
@@ -24,13 +24,13 @@ author_work_experiences:
             - company_name: University of California, Santa Barbara
               company_logo: ucsb.png
               company_url: https://www.ucsb.edu/
-              designation: Graduate Teaching Assistant, Perception
+              designation: Graduate Teaching Assistant, PSY 130 (Perception and Vision)
               description: Fall 2022, was a teaching assistant to 100-odd undegraduate students. Duties included holding office hours. proctoring, and grading
               visibility: true
             - company_name: Indian Institute of Science Education and Reseach, Kolkata
               company_logo: iiserk.png
               company_url: https://www.iiserkol.ac.in/web/en/
-              designation: Teaching Assistant, Cell Biology and Evolutionary Biology
+              designation: Teaching Assistant, LS3102 (Cell Biology) and LS2201 (Evolutionary Biology)
               description: Fall 2021 and Spring 2022, duties involved proctoring, and grading
               visibility: true
             - company_name: Ek Pehal, IISER Kolkata
@@ -50,8 +50,8 @@ author_education_details:
               - college_logo: iiserk.png
                 college_name: Indian Institute of Science Education and Research, Kolkata
                 college_url: https://www.iiserkol.ac.in/web/en/
-                college_degree: Dual Degree (BS-MS in Life Sciences) 
-                description: 2017-2022, earned Bachelors and Masters Degree in a 5-year Integrated program (GPA 9.46/10)
+                college_degree: Dual Degree (BS-MS, Life Science major) 
+                description: 2017-2022, earned Bachelor and Master Degree in a 5-year Integrated program (GPA 9.46/10)
                 visibility: true
 
               
@@ -59,7 +59,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: kd.png
                 project_title: Effect of visual experience with face-masks on face perception during COVID-19
-                project_description: 2021-2022, my Masters' Research Project focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings (VSS conference abstract linked below)
+                project_description: 2021-2022, my Masters' Research Project, under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata, focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings (VSS 2022 conference abstract linked below)
                 project_url: https://doi.org/10.1167/jov.22.14.3243
                 visibility: true
               - project_thumbnail: nma.png
@@ -68,18 +68,18 @@ author_project_details:
                 project_url: https://docs.google.com/presentation/d/1HxTTPJLCty0zqCUq8xyeXwzgsiJ4ygy7LHVWC1x8uSs/edit?usp=sharing
                 visibility: true
               - project_thumbnail: ma1.png
-                project_title: Machine Learning and Network Analysis Course Project
-                project_description: 2022, in this project I was part of a team and we used random forest classifier and PCA to extract meaningful information from a pre-recorded dataset
+                project_title: Machine Learning and Network Analysis (MA4207) Course Project
+                project_description: 2021, in this project I was part of a team and we used random forest classifier and PCA to extract meaningful information from a pre-recorded dataset
                 #project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_Robotic-Arm_Pick-And-Place
                 visibility: true
               - project_thumbnail: langur.png
                 project_title: Feeding Preference of Free-Raging Gray Langurs in an Urban Context
-                project_description: Summer 2019, I was part of a team that explored the adaptive feeding behavior of primates in an urbanized setting (publication linked below)
+                project_description: Summer 2019, I was part of a team that explored the adaptive feeding behavior of primates in an urbanized setting under the guidance of Dr. Manabi Paul, Calcutta University (publication linked below)
                 project_url: https://doi.org/10.3389/fpsyg.2021.649027
                 visibility: true
               - project_thumbnail: mp.png
                 project_title: Effect of Medicinal Drugs on Drosophila (wild-type and mutated)
-                project_description: Summer 2018, I investigated whether medicinal drugs can rescue certain mutated fly lines 
+                project_description: Summer 2018, I investigated whether medicinal drugs can rescue certain mutated fly lines, under the supervision of Dr. Mohit Prasad. Dept. of Biological Sciences, IISER Kolkata
                 #project_url: https://github.com/VihaanAkshaay/Project_RoboND_Follow-Me
                 visibility: true                
 
