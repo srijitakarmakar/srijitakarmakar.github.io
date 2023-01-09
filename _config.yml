@@ -18,7 +18,7 @@ author_bio: I am a graduate student at the Department of Psychological and Brain
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
 #typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
-hero_cover_img: cover.png
+#hero_cover_img: cover.png
 
 author_work_experiences:
             - company_name: iBot Club, Centre for Innovation
@@ -57,25 +57,30 @@ author_education_details:
               
 
 author_project_details:
-              - project_thumbnail: ib.png
-                project_title: ARTEMIS - Railroad Crack Detection Robot
-                project_description: ARTEMIS is an autonomous robot that traverses inbetween the railway tracks, detects faults and sends the coordinates for further action to be taken.
-                project_url: https://www.jamesdysonaward.org/2017/project/railroad-crack-detection-bot/
+              - project_thumbnail: kd.png
+                project_title: Effect of visual experience with face-masks on face perception during COVID-19
+                project_description: 2021-2022, my Masters' Research Project focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings (VSS conference abstract linked below)
+                project_url: https://doi.org/10.1167/jov.22.14.3243
                 visibility: true
-              - project_thumbnail: ib.png
-                project_title: Robotic Arm - Pick and Place
-                project_description: The goal of the project is to solve is to simulate a robotic arm and perform a pick-and-place exercise very similar to Amazon Robotics Challenge.
-                project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_Robotic-Arm_Pick-And-Place
+              - project_thumbnail: nma.png
+                project_title: Reward and Emotion Interaction-an fMRI data analysis project
+                project_description: Summer 2022, Neuromatch Academy Project wherein I was part of a team who worked to explore a link between reward processing and emotion with the help of human fMRI data
+                project_url: https://docs.google.com/presentation/d/1HxTTPJLCty0zqCUq8xyeXwzgsiJ4ygy7LHVWC1x8uSs/edit?usp=sharing
                 visibility: true
-              - project_thumbnail: ib.png
-                project_title: 3D Perception Project
-                project_description: The goal of this project is to program a PR2 to identify and acquire target objects from a cluttered space and place them in a bin. The project is based on the 'Stow Task' portion of Amazon's Robotics Challenge.
-                project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_3D-Perception-Project
+              - project_thumbnail: ma1.png
+                project_title: Machine Learning and Network Analysis Course Project
+                project_description: 2022, in this project I was part of a team and we used random forest classifier and PCA to extract meaningful information from a pre-recorded dataset
+                #project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_Robotic-Arm_Pick-And-Place
+                visibility: true
+              - project_thumbnail: langur.png
+                project_title: Feeding Preference of Free-Raging Gray Langurs in an Urban Context
+                project_description: Summer 2019, I was part of a team that explored the adaptive feeding behavior of primates in an urbanized setting (publication linked below)
+                project_url: https://doi.org/10.3389/fpsyg.2021.649027
                 visibility: true
               - project_thumbnail: mp.png
-                project_title: Robotic Arm - Pick and Place
-                project_description: In a simulated environment, given camera input from a drone, the goal is to train a fully convoluted neural network to identify the location of a moving target and to control the drone to follow the same.
-                project_url: https://github.com/VihaanAkshaay/Project_RoboND_Follow-Me
+                project_title: Effect of Medicinal Drugs on Drosophila (wild-type and mutated)
+                project_description: Summer 2018, I investigated whether medicinal drugs can rescue certain mutated fly lines 
+                #project_url: https://github.com/VihaanAkshaay/Project_RoboND_Follow-Me
                 visibility: true                
 
 # social links
@@ -104,7 +109,7 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
