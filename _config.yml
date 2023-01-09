@@ -21,23 +21,23 @@ author_location: California, USA
 #hero_cover_img: cover.png
 
 author_work_experiences:
-            - company_name: iBot Club, Centre for Innovation
-              company_logo: ib.png
-              company_url: http://cfi.iitm.ac.in/wordpress/index.php/ibot-club/
-              designation: iBot(Robotics) Club Head
-              description: Managed and mentored various projects as well as conducted robotics oriented session with the aim of improving the tech culture in the institute.
+            - company_name: University of California, Santa Barbara
+              company_logo: ucsb.png
+              company_url: https://www.ucsb.edu/
+              designation: Graduate Teaching Assistant, Perception
+              description: Fall 2022, was a teaching assistant to 100-odd undegraduate students. Duties included holding office hours. proctoring, and grading
               visibility: true
-            - company_name: Ramakrishna Math, Chennai
-              company_logo: ib.png
-              company_url: https://chennaimath.org/
-              designation: Robotics Intern
-              description: Worked on 'Biley Bot', a lifelike, interactive humanoid robot of young Swami Vivekananda, soon to be displayed in Vivekanandar House Museum, Chennai. 
+            - company_name: Indian Institute of Science Education and Reseach, Kolkata
+              company_logo: iiserk.png
+              company_url: https://www.iiserkol.ac.in/web/en/
+              designation: Teaching Assistant, Cell Biology and Evolutionary Biology
+              description: Fall 2021 and Spring 2022, duties involved proctoring, and grading
               visibility: true
-            - company_name: Toyota Kirloskar Motor Pvt Ltd
-              company_logo: ib.png
-              company_url: https://en.wikipedia.org/wiki/Toyota_Kirloskar_Motor
-              designation: Summer Engineering Intern
-              description: Industrial internship with on-field experience from a reputed manufacturing factory. Experience on workshop floor included a project study on Backdoor Cushion Rubber Miss Elimination.
+            - company_name: Ek Pehal, IISER Kolkata
+              company_logo: ekp.png
+              company_url: https://sites.google.com/site/ekpehal2015/
+              designation: Teaching Staff
+              description: 2019-2022, volunteered with Ek Pehal, a student-led initiativen associated with my undergraduate institute campus, to teach young children from neigbouring localities
               visibility: true
 
 author_education_details:
@@ -109,7 +109,7 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: false
+show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
 
