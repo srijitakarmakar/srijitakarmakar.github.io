@@ -64,7 +64,7 @@ author_project_details:
                 visibility: true
               - project_thumbnail: nma.png
                 project_title: Reward and Emotion Interaction-an fMRI data analysis project
-                project_description: Summer 2022, Neuromatch Academy Project wherein I was part of a team who worked to explore a link between reward processing and emotion with the help of human fMRI data
+                project_description: Summer 2022, Neuromatch Academy Project wherein I was part of a team who worked to explore a link between reward processing and emotion using the HCP fMRI dataset
                 project_url: https://docs.google.com/presentation/d/1HxTTPJLCty0zqCUq8xyeXwzgsiJ4ygy7LHVWC1x8uSs/edit?usp=sharing
                 visibility: true
               - project_thumbnail: ma1.png
