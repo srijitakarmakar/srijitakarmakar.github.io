@@ -64,12 +64,12 @@ author_project_details:
                 visibility: true
               - project_thumbnail: devi.png
                 project_title: Investigating the Benefit of Deep-Learning Based Algorithms in Medical Image Analysis
-                project_description: I worked with Dr. Devi Klein under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, to delineate the advantages and disadvantages of using CNN-CAD tools for the diagnosis of disorders from medical images such as CT scans (publication linked below).
+                project_description: I worked with (Dr., circa 2024!) Devi Klein under the supervision of Dr. Miguel Eckstein, to delineate the advantages and disadvantages of using CNN-CAD tools for the diagnosis of disorders from medical images such as CT scans (publication linked below).
                 project_url: https://doi.org/10.1117/1.JMI.11.4.045501
                 visibility: true
               - project_thumbnail: gaze2.png
                 project_title: Dynamics of Gaze-Following Saccades During Search
-                project_description: As part of my second-year PhD project, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking to investigate the visual perceptual mechanisms that guide gaze following behavior using dynamic and naturalistic stimuli. I presented this work as a talk at the Gordon Research Conference on Eye Movements and as a poster at the Gordon Research Seminar on Eye Movements (July 2023). I also presented this at our departent Minicon for second year graduate students (May 2024, linked below).
+                project_description: As part of my second-year PhD project, I utilized eye-tracking to investigate the visual perceptual mechanisms that guide gaze following behavior using dynamic and naturalistic stimuli. I presented this work as a talk at the Gordon Research Conference on Eye Movements and as a poster at the Gordon Research Seminar on Eye Movements (July 2023). I also presented this at our departent Minicon for second year graduate students (May 2024, linked below).
                 project_url: https://www.youtube.com/live/GdxziXtdyxM?si=j0AcKfSFPjTmZD7A
                 visibility: true
               - project_thumbnail: kd.png
