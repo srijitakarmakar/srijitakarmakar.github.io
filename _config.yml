@@ -59,22 +59,22 @@ author_education_details:
 author_project_details:
                - project_thumbnail: gazesimple.png
                 project_title: Anticipatory Orienting of Covert Attention using Dynamic Gaze Cueing
-                project_description: 2023-present, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking and reverse correlation to investigate the temporal dynamics of the integration of information from the visual fovea and the periphery involved in gaze-following behavior. I presented this work as a poster at the Vision Sciences Society Annual Meeting (May 2024, conference abstract linked below).
+                project_description: I utilized eye-tracking and reverse correlation to investigate the temporal dynamics of the integration of information from the visual fovea and the periphery involved in gaze-following behavior. I presented this work as a poster at the Vision Sciences Society Annual Meeting (May 2024, conference abstract linked below).
                 project_url: https://doi.org/10.1167/jov.24.10.751
                 visibility: true
               - project_thumbnail: devi.png
                 project_title: Investigating the Benefit of Deep-Learning Based Algorithms in Medical Image Analysis
-                project_description: 2023, I worked with Dr. Devi Klein under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, to delineate the advantages and disadvantages of using CNN-CAD tools for the diagnosis of disorders from medical images such as CT scans (publication linked below).
+                project_description: I worked with Dr. Devi Klein under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, to delineate the advantages and disadvantages of using CNN-CAD tools for the diagnosis of disorders from medical images such as CT scans (publication linked below).
                 project_url: https://doi.org/10.1117/1.JMI.11.4.045501
                 visibility: true
               - project_thumbnail: gaze2.png
                 project_title: Dynamics of Gaze-Following Saccades During Search
-                project_description: 2022-2024, as part of my second-year PhD project, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking to investigate the visual perceptual mechanisms that guide gaze following behavior using dynamic and naturalistic stimuli. I presented this work as a talk at the Gordon Research Conference on Eye Movements and as a poster at the Gordon Research Seminar on Eye Movements (July 2023). I also presented this at our departent Minicon for second year graduate students (May 2024, linked below).
+                project_description: As part of my second-year PhD project, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking to investigate the visual perceptual mechanisms that guide gaze following behavior using dynamic and naturalistic stimuli. I presented this work as a talk at the Gordon Research Conference on Eye Movements and as a poster at the Gordon Research Seminar on Eye Movements (July 2023). I also presented this at our departent Minicon for second year graduate students (May 2024, linked below).
                 project_url: https://www.youtube.com/live/GdxziXtdyxM?si=j0AcKfSFPjTmZD7A
                 visibility: true
               - project_thumbnail: kd.png
                 project_title: Effect of Visual Experience with Face Masks on Face Perception during COVID-19
-                project_description: 2021-2022, my Masters' Research Project, under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata, focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings. I presented this work at the Visual Sciences Society Annual Meeting (May 2022, conference abstract linked below).
+                project_description: For my Masters' Thesis, under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata, focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings. I presented this work at the Visual Sciences Society Annual Meeting (May 2022, conference abstract linked below).
                 project_url: https://doi.org/10.1167/jov.22.14.3243
                 project_url: https://doi.org/10.48550/arXiv.2303.06031
                 visibility: true
