@@ -57,7 +57,7 @@ author_education_details:
               
 
 author_project_details:
-               - project_thumbnail: gazesimple.png
+              - project_thumbnail: gazesimple.png
                 project_title: Anticipatory Orienting of Covert Attention using Dynamic Gaze Cueing
                 project_description: I utilized eye-tracking and reverse correlation to investigate the temporal dynamics of the integration of information from the visual fovea and the periphery involved in gaze-following behavior. I presented this work as a poster at the Vision Sciences Society Annual Meeting (May 2024, conference abstract linked below).
                 project_url: https://doi.org/10.1167/jov.24.10.751
