@@ -14,7 +14,7 @@ urls:
 
 author_logo: profile.png
 author: Srijita Karmakar
-author_bio: I am a graduate student working with Prof. Miguel Eckstein at the Vision and Image Understanding Lab, Dept. of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. Previously, I explored human cognition in the context of face perception under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata. When I am not doing vision science or honing my computational skills, you would probably find me writing poetry, playing my guitar, overthinking, or trekking Himalayan mountains.
+author_bio: I am a graduate student working with Prof. Miguel Eckstein at the Vision and Image Understanding Lab, Dept. of Psychological and Brain Sciences, University of California, Santa Barbara. I am interested in exploring questions that can potentially allow a better understanding of vision and the brain's role in it. Previously, I explored human cognition in the context of face perception under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata. I am currently chasing a better understanding of the temporal dynamics involved in the intricate interplay and trade-offs between foveal and peripheral vision. I am also deeply interested in uncovering the black box of artificial intelligence, at least in the realm of vision, to get a stronger handle on how the biological brain and the artificial brain may differ from each other, and (more importantly, learn from each other). When I am not doing vision science or honing my computational skills, you would probably find me writing poetry, playing my guitar, watching obscure films, or trekking Himalayan mountains.
 author_email: "srijita@ucsb.edu"
 author_location: California, USA
 #typewrite-text: The eyes may be windows to the soul, but they surely are doors to the brain...
@@ -45,43 +45,59 @@ author_education_details:
                 college_name: University of California, Santa Barbara
                 college_url: https://www.ucsb.edu/
                 college_degree: Ongoing PhD 
-                description: 2022-present, pursuing a PhD in the Dept. of Psychological and Brain Sciences at UCSB
+                description: September 2022-present, pursuing a PhD in the Dept. of Psychological and Brain Sciences at UCSB (GPA 4.0)
                 visibility: true
               - college_logo: iiserk.png
                 college_name: Indian Institute of Science Education and Research, Kolkata
                 college_url: https://www.iiserkol.ac.in/web/en/
                 college_degree: Dual Degree (BS-MS, Life Science major) 
-                description: 2017-2022, earned Bachelor and Master Degree in a 5-year Integrated program (GPA 9.46/10)
+                description: 2017-2022, earned Bachelor and Master of Science degrees in a 5-year Integrated program (GPA 9.46/10)
                 visibility: true
 
               
 
 author_project_details:
+               - project_thumbnail: gazesimple.png
+                project_title: Anticipatory Orienting of Covert Attention using Dynamic Gaze Cueing
+                project_description: 2023-present, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking and reverse correlation to investigate the temporal dynamics of the integration of information from the visual fovea and the periphery involved in gaze-following behavior. I presented this work as a poster at the Vision Sciences Society Annual Meeting (May 2024, conference abstract linked below).
+                project_url: https://doi.org/10.1167/jov.24.10.751
+                visibility: true
+              - project_thumbnail: devi.png
+                project_title: Investigating the Benefit of Deep-Learning Based Algorithms in Medical Image Analysis
+                project_description: 2023, I worked with Dr. Devi Klein under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, to delineate the advantages and disadvantages of using CNN-CAD tools for the diagnosis of disorders from medical images such as CT scans (publication linked below).
+                project_url: https://doi.org/10.1117/1.JMI.11.4.045501
+                visibility: true
+              - project_thumbnail: gaze2.png
+                project_title: Dynamics of Gaze-Following Saccades During Search
+                project_description: 2022-2024, as part of my second-year PhD project, under the supervision of Dr. Miguel Eckstein, Dept. of Psychological and Brain Sciences, UCSB, I utilized eye-tracking to investigate the visual perceptual mechanisms that guide gaze following behavior using dynamic and naturalistic stimuli. I presented this work as a talk at the Gordon Research Conference on Eye Movements and as a poster at the Gordon Research Seminar on Eye Movements (July 2023). I also presented this at our departent Minicon for second year graduate students (May 2024, linked below).
+                project_url: https://www.youtube.com/live/GdxziXtdyxM?si=j0AcKfSFPjTmZD7A
+                visibility: true
               - project_thumbnail: kd.png
-                project_title: Effect of visual experience with face-masks on face perception during COVID-19
-                project_description: 2021-2022, my Masters' Research Project, under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata, focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings (VSS 2022 conference abstract linked below)
+                project_title: Effect of Visual Experience with Face Masks on Face Perception during COVID-19
+                project_description: 2021-2022, my Masters' Research Project, under the supervision of Dr. Koel Das, Dept. of Mathematics and Statistics, IISER Kolkata, focused on utilizing psychophysics and EEG to understand the effect of extensive usage of face-masks in light of COVID-19 on the perceptual abilities of human beings. I presented this work at the Visual Sciences Society Annual Meeting (May 2022, conference abstract linked below).
                 project_url: https://doi.org/10.1167/jov.22.14.3243
+                project_url: https://doi.org/10.48550/arXiv.2303.06031
                 visibility: true
               - project_thumbnail: nma.png
-                project_title: Reward and Emotion Interaction-an fMRI data analysis project
-                project_description: Summer 2022, Neuromatch Academy Project wherein I was part of a team who worked to explore a link between reward processing and emotion using the HCP fMRI dataset
+                project_title: Reward and Emotion Interaction - An fMRI Data Analysis Project
+                project_description: In the summer of 2022, I was part of a team at the Neuromatch Academy program who worked to explore a link between reward processing and emotion using the HCP fMRI dataset
                 project_url: https://docs.google.com/presentation/d/1HxTTPJLCty0zqCUq8xyeXwzgsiJ4ygy7LHVWC1x8uSs/edit?usp=sharing
                 visibility: true
               - project_thumbnail: ma1.png
-                project_title: Machine Learning and Network Analysis (MA4207) Course Project
-                project_description: 2021, in this project I was part of a team and we used random forest classifier and PCA to extract meaningful information from a pre-recorded dataset
-                #project_url: https://github.com/VihaanAkshaay/Project_Robo-ND_Robotic-Arm_Pick-And-Place
+                project_title: Machine Learning and Network Analysis (MA4207 Machine Learning Course Project)
+                project_description: In 2021, for a course project, I was part of a team where we used random forest classifier and PCA to extract meaningful information from a pre-recorded dataset.
+                project_url: https://www.overleaf.com/read/vhszkddmvqpx#156fda
                 visibility: true
               - project_thumbnail: langur.png
                 project_title: Feeding Preference of Free-Ranging Gray Langurs in an Urban Context
-                project_description: Summer 2019, I was part of a team that explored the adaptive feeding behavior of primates in an urbanized setting under the guidance of Dr. Manabi Paul, Calcutta University (publication linked below)
+                project_description: In the summer of 2019, I was part of a team that explored the adaptive feeding behavior of primates in an urbanized setting under the guidance of Dr. Manabi Paul, Calcutta University (publication linked below).
                 project_url: https://doi.org/10.3389/fpsyg.2021.649027
                 visibility: true
               - project_thumbnail: mp.png
                 project_title: Effect of Medicinal Drugs on Drosophila (wild-type and mutated)
-                project_description: Summer 2018, I investigated whether medicinal drugs can rescue certain mutated fly lines, under the supervision of Dr. Mohit Prasad. Dept. of Biological Sciences, IISER Kolkata
+                project_description: Summer 2018, I investigated whether medicinal drugs can rescue certain mutated fly lines, under the supervision of Dr. Mohit Prasad. Dept. of Biological Sciences, IISER Kolkata.
                 #project_url: https://github.com/VihaanAkshaay/Project_RoboND_Follow-Me
-                visibility: true                
+                visibility: false               
 
 # social links
 github_username:  srijitakarmakar
