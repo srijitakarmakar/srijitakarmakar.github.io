@@ -1,11 +1,14 @@
+ruby "2.7.7"
+
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.2.2', '>= 4.1.1'
-gem 'bundler', '~> 2.3.23'
+gem 'jekyll'
+gem 'bundler'
 gem 'faraday-retry'
 gem 'backports', '~> 3.23'
 gem 'kramdown'
 gem 'puma'
+gem 'webrick'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -19,9 +22,11 @@ group :jekyll_plugins do
     gem 'jekyll-feed', '~> 0.17.0'
     gem 'jekyll-paginate', '~> 1.1.0'
     gem 'jekyll-gist', '~> 1.5.0'
+    gem 'jekyll-algolia'
     gem 'jekyll-seo-tag', '~> 2.8.0'
     gem 'jekyll-sitemap', '~> 1.4.0'
     gem 'jekyll-admin', '~> 0.11.1'
+    gem 'jekyll-menus'
 end
 
 
@@ -34,4 +39,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-gem "webrick", "~> 1.7"
